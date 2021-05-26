@@ -216,7 +216,7 @@
 }
 
 .hero__heading span {
-  background: #ee0979; 
+  background: #660033; 
   background: -webkit-linear-gradient(
     to right,
     #ff6a00,
@@ -636,12 +636,12 @@
   color: #fff;
   text-decoration: none;
   margin-bottom: 0.5rem;
-  transition: 0.3 ease-out;
+  transition: 0.3s ease-out;
 }
 
 .footer__link--items a:hover {
   color: #e9e9e9;
-  transition: 0.3 ease-out;
+  transition: 0.3s ease-out;
 }
 
 .social__icon--link {
